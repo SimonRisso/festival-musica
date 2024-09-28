@@ -1,0 +1,5 @@
+@forward 'variables'; // @forward sirve para apuntar e indica a donde se encuentran los archivos
+// @forward solamente va en los archivos index para apuntar a los demás para agregarlos a la compilación agg la carpeta.
+@forward 'mixins';
+@forward 'normalize';
+@forward 'globales';
